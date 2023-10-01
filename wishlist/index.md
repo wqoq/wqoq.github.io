@@ -26,7 +26,6 @@ title: "wqoq's Wishlist"
 # Misc
   
 # Clothes
-  * U of R Rams flex fit hat (L/XL)
   * Regina Pats flex fit hat (dark coloured) (L/XL)
 
 # Movies/TV
