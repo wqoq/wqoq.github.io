@@ -1,6 +1,6 @@
-<head>
-<title>wqoq's Wishlist</title>
-</head>
+name: wqoq.com
+title: "wqoq's Wishlist"
+
 # Other Wishlists
   * My Amazon Wishlist ([Amazon.ca](http://www.amazon.ca/wishlist/W64BSISARFAJ))
   * My Goodreads book wishlist ([Goodreads.com](https://www.goodreads.com/review/list/40009358-bob-maguire?shelf=wishlist))
