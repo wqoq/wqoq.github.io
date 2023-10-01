@@ -1,4 +1,6 @@
+---
 title: Wishlist
+---
 
 ## Other Wishlists
   * My Amazon Wishlist ([Amazon.ca](http://www.amazon.ca/wishlist/W64BSISARFAJ))
