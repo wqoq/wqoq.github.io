@@ -1,3 +1,5 @@
+title: Wishlist
+
 ## Other Wishlists
   * My Amazon Wishlist ([Amazon.ca](http://www.amazon.ca/wishlist/W64BSISARFAJ))
   * My Goodreads book wishlist ([Goodreads.com](https://www.goodreads.com/review/list/40009358-bob-maguire?shelf=wishlist))
@@ -25,6 +27,3 @@
   * Regina Pats flex fit hat (dark coloured) (L/XL)
 
 ## Movies/TV
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0MTM3NjMsLTEwNTgwNzQwNzldfQ==
--->
