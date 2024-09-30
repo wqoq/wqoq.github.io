@@ -16,6 +16,7 @@ title: "wqoq's Wishlist"
  * Chapters
  * Amazon 
  * Canadian Tire
+ * Comic Readers
  * Sunrise Records
  * Vintage Vinyl 
  * Nintendo eShop
