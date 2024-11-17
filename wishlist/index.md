@@ -25,6 +25,8 @@ title: "wqoq's Wishlist"
  * Designer Shoe Warehouse
   
 # Misc
+ * Fitted sheet (Queen)
+ * Dishwasher
   
 # Clothes
   * Regina Pats flex fit hat (dark coloured) (L/XL)
