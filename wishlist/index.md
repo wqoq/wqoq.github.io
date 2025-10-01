@@ -11,10 +11,10 @@ title: "wqoq's Wishlist"
   * My Discogs wishlist ([Discogs.com](https://www.discogs.com/wantlist?user=wqoq2))
 
 # Gift cards/certificates
+ * Amazon
  * iTunes
  * Playstation Network (PSN)
  * Chapters
- * Amazon 
  * Canadian Tire
  * Comic Readers
  * Sunrise Records
@@ -25,10 +25,7 @@ title: "wqoq's Wishlist"
  * Designer Shoe Warehouse
   
 # Misc
- * Fitted sheet (Queen)
  * Dishwasher
   
 # Clothes
   * Regina Pats flex fit hat (dark coloured) (L/XL)
-
-# Movies/TV
