@@ -1,4 +1,9 @@
-body {	
+---
+---
+
+@import "jekyll-theme-primer";
+
+body.splash {	
 	height: 100vh;
 	display: flex;
 	justify-content: center;

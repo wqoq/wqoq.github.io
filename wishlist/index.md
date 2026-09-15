@@ -1,9 +1,9 @@
 ---
-name: wqoq.com
 title: "wqoq's Wishlist"
+layout: markdown
 ---
 
-Last modified: {{ page.last_modified_at | date: '%e %b %Y %l:%M:%S %p %z' }}
+Last modified: {{ page.last_modified_at | date: '%e %b %Y %l:%M:%S %p %Z' }}
 
 # Other Wishlists
   * My Amazon Wishlist ([Amazon.ca](http://www.amazon.ca/wishlist/W64BSISARFAJ))

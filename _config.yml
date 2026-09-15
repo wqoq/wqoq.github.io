@@ -1,5 +1,6 @@
 title: wqoq.com
 markdown: kramdown
+timezone: America/Regina
 
 plugins:
     - jekyll-last-modified-at
