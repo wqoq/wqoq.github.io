@@ -1,2 +1,5 @@
-name: wqoq.com
+title: wqoq.com
 markdown: kramdown
+
+plugins:
+    - jekyll-last-modified-at

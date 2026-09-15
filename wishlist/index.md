@@ -3,6 +3,8 @@ name: wqoq.com
 title: "wqoq's Wishlist"
 ---
 
+Last modified: {{ page.last_modified_at | date: '%e %b %Y %l:%M:%S %p %z' }}
+
 # Other Wishlists
   * My Amazon Wishlist ([Amazon.ca](http://www.amazon.ca/wishlist/W64BSISARFAJ))
   * My Goodreads book wishlist ([Goodreads.com](https://www.goodreads.com/review/list/40009358-bob-maguire?shelf=wishlist))
